@@ -1,4 +1,5 @@
 # Laporan Mini Assignment — Universal Dependencies Bahasa Indonesia
+*Ini seharusnya laporan_template.md
 
 **Nama / Kelompok:** M Kaka Chadafi F  
 **Kelas:** NLP  
